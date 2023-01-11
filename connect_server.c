@@ -1,4 +1,3 @@
-//gcc -o bin.exe connect_server.c -lws2_32
 #include <Winsock2.h>
 #include <stdio.h>
 
